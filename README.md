@@ -51,6 +51,5 @@ We used a subset of the **ImageNet (ILSVRC2012)** dataset for generating image a
 To access it, download from the kaggle repository:
 
 - [https://www.kaggle.com/datasets/thbdh5765/ilsvrc2012](https://www.kaggle.com/datasets/thbdh5765/ilsvrc2012)  
-  
-Use the subset located at:
+
 
